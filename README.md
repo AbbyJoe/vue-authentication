@@ -1,3 +1,4 @@
+Login Authentication system built with Vue and Firebase
 # auth
 
 ## Project setup
